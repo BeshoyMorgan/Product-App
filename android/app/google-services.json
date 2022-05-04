@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "818752756857",
+    "project_id": "test-39eda",
+    "storage_bucket": "test-39eda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818752756857:android:c6f090f54aa3b781cfc8a8",
+        "android_client_info": {
+          "package_name": "io.flutlab.hello_world.hello_world"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818752756857-jl288l9hvaegc2lqlb111qb4nhep2e1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmbl-nZmQr2hyjtmLKFyROacz2Wn0APVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818752756857-jl288l9hvaegc2lqlb111qb4nhep2e1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
